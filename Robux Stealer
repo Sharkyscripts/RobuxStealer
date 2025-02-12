@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/W-Scripts/SharkyScripts/refs/heads/main/Script"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Sharkyscripts/TFV2/refs/heads/main/TFV2",true))()
